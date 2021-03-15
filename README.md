@@ -14,6 +14,7 @@ The scripts used in the project were written in C# language with the use develop
 - Adobe Photoshop 
 ###
 Simple sprites and animation frames were created with Adobe Photoshop.
+###
 Opis
 ###
 Deep in the dark to platformowa gra 2d z proceduralnie generowanym poziomem. Zadaniem gracza jest zgromadzenie jak największej ilości punktów po przez pokonywanie dwóch rodzajów przeciwników oraz zdobycie eliksiru który znajduję się w ostatnim rzędzie poziomu. 
