@@ -1,6 +1,6 @@
 # Deep in the dark
 
-# Description
+## Description
 ###
 Deep in the dark is a 2d platformer game with procedurally generated level. The player task is to collect as many points as possible by defeating two types of opponents and collecting the elixir located in last row of the level.  
 ###
@@ -15,7 +15,7 @@ The scripts used in the project were written in C# language with the use develop
 ###
 Simple sprites and animation frames were created with Adobe Photoshop.
 ###
-# Opis
+## Opis
 ###
 Deep in the dark to platformowa gra 2d z proceduralnie generowanym poziomem. Zadaniem gracza jest zgromadzenie jak największej ilości punktów po przez pokonywanie dwóch rodzajów przeciwników oraz zdobycie eliksiru który znajduję się w ostatnim rzędzie poziomu. 
 ## Technologie 
